@@ -2,7 +2,7 @@
 An Object-level SLAM Method Based on Ellipsoidal Representation in Dynamic Scenes.
 
 <div align="center">
-  <img src="img/framework.pdf">
+  <img src="img/framework.jpg">
 </div>
 
 Our environments: ubuntu18.04/GCC7.5/ GPU: RTX2080ti.<br />
