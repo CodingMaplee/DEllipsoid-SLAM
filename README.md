@@ -2,7 +2,7 @@
 An Object-level SLAM Method Based on Ellipsoidal Representation in Dynamic Scenes.
 
 <div align="center">
-  <img src="img/framework.jpg">
+  <img src="img/framework.png">
 </div>
 
 
