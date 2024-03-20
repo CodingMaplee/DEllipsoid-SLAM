@@ -15,6 +15,10 @@ System critical step:
   <img src="img/association.png">
 </div>
 
+<div align="center">
+  <img src="img/relocal.png">
+</div>
+
 video address:https://www.bilibili.com/video/BV1EV4y1D7GK/<br />
 
 The annotated dataset is available at annotations folder.
