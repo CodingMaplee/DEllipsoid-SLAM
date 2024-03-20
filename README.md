@@ -5,7 +5,7 @@ An Object-level SLAM Method Based on Ellipsoidal Representation in Dynamic Scene
   <img src="img/framework.png">
 </div>
 
-video address:https://www.bilibili.com/video/BV1EV4y1D7GK/<br />
+video address at: https://www.bilibili.com/video/BV1jt421G7G9/?vd_source=737506656063f049ffdc96e35434c482/<br />
 
 Our environments: ubuntu18.04/GCC7.5/ GPU: RTX2080ti.<br />
 Our sourse code: coming soon.
